@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=poiret+One);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.9/css/weather-icons.min.css);
 :root {
   --max-width: 1100px;
   --border-radius: 12px;
